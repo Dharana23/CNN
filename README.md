@@ -1,2 +1,2 @@
 # CNN
-classification of dog an dcat based on images
+classification of dog and cat based on images
