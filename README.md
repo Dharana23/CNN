@@ -1,2 +1,1 @@
-# CNN
-classification of dog and cat based on images
+# Convolutional Neural Networks
